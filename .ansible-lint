@@ -1,0 +1,8 @@
+---
+exclude_paths:
+  - .github
+  - changelogs
+skip_list:
+  - var-naming[no-role-prefix]
+  - yaml[comments]
+...
